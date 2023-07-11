@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Day2\ConAppTwo\ConAppTwo\bin\Debug\ConAppTwo.exe.config
+D:\Mphasis\.net\Day2\ConAppTwo\ConAppTwo\bin\Debug\ConAppTwo.exe
+D:\Mphasis\.net\Day2\ConAppTwo\ConAppTwo\bin\Debug\ConAppTwo.pdb
+D:\Mphasis\.net\Day2\ConAppTwo\ConAppTwo\obj\Debug\ConAppTwo.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day2\ConAppTwo\ConAppTwo\obj\Debug\ConAppTwo.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day2\ConAppTwo\ConAppTwo\obj\Debug\ConAppTwo.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day2\ConAppTwo\ConAppTwo\obj\Debug\ConAppTwo.exe
+D:\Mphasis\.net\Day2\ConAppTwo\ConAppTwo\obj\Debug\ConAppTwo.pdb
